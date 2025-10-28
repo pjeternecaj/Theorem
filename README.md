@@ -1,5 +1,5 @@
 # Theorem
-If any point P inside any concave quadrilateral, is joined to the midpoints of the sides of the quadrilateral, 4 quadrilaterals with surfaces by S1,S2,S3,S4 (marked in a direction of rotation) are formed, then the equation is true: S1+S3=S2+S4
+In any concave polygon where the number of sides n is an even number, so n=4,6,8,10… and any point P inside this polygon is joined to the midpoints of the sides of the polygon,     n quadrilaterals will be formed, and if we mark their surfaces with S1,S2,S3,S4,S5,S6,…,Sn-1,Sn (marked in a sense of rotation), then it is shown that the equation is true: S1+S3+S5+S7+….+Sn-1 = S2+S4+S6+S8+….+Sn
 ### DOI
 10.5281/zenodo.17332997
 ## License
